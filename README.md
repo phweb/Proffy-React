@@ -8,7 +8,7 @@
    <img src="https://github.com/phweb/Proffy-React/blob/master/.github/projeto-proffy.jpg" width="800px">
 </div>
 
-# :computer: 🚀 Tecnologias
+# :computer: Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 <ul>
   <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
@@ -16,6 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <li><a href="https://expo.io/">Expo</a></li>
   <li><a href="https://expressjs.com/en/api.html#express">Express</a></li>
 </ul>
+
 # :rocket: Funcionalidades
 
 * Site para cadastro de estudante e professores.
@@ -76,7 +77,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Desenvolvido por PHWEB Next Level Week #NLW da Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Desenvolvido por [PHWEB](www.phweb.com.br) Next Level Week #NLW da Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
 
 
 
