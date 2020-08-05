@@ -5,16 +5,15 @@
 
 ### Web Screenshot
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-   <img src=" width="400px">
-   <img src="" width="400px">
+   <img src="https://github.com/phweb/Proffy-React/blob/master/.github/projeto-proffy" width="800px">
 </div>
 
 ### Mobile Screenshot
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
 </div>
 
-# :computer: Technologies
-This project was made using the follow technologies:
+# :computer: 🚀 Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 <ul>
   <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
   <li><a href="https://reactnative.dev/">React Native</a></li>
