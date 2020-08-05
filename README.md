@@ -5,7 +5,7 @@
 
 ### Web Screenshot
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-   <img src="https://github.com/phweb/Proffy-React/blob/master/.github/projeto-proffy" width="800px">
+   <img src="https://github.com/phweb/Proffy-React/blob/master/.github/projeto-proffy.jpg" width="800px">
 </div>
 
 ### Mobile Screenshot
