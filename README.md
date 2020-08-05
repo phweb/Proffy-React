@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="" alt="Proffy" width="280"/>
+   <img src="https://github.com/phweb/Proffy-React/blob/master/.github/logo-proffy.png" alt="Proffy" width="500px" align="center" />
 </p>
 
 
