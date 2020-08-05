@@ -3,13 +3,9 @@
 </p>
 
 
-### Web Screenshot
+### Desenvolvimento de uma plataforma de estudos online, com a possibilidade de encontrar instrutores das mais diversas áreas.
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
    <img src="https://github.com/phweb/Proffy-React/blob/master/.github/projeto-proffy.jpg" width="800px">
-</div>
-
-### Mobile Screenshot
-<div style="display: flex; flex-direction: 'row'; align-items: 'center';">
 </div>
 
 # :computer: 🚀 Tecnologias
@@ -21,23 +17,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <li><a href="https://expressjs.com/en/api.html#express">Express</a></li>
 </ul>
 
-# :rocket: Features
+## :memo: Licença
 
-* Website to sign up teachers and students.
-* App to connect teachers and students.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-# :construction_worker: How to run
-### Mobile
-To run the mobile project you need a cellphone with the app of [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instaled or a emulator android/ios.
-<br />
-After, fork this repository and clone to your machine. Inside of the project's folder run the following commands:
+---
 
-```sh
-npm install
-
-npm start
-```
-Aferter read the QRCode with the app of [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) or run on emulator.
+Desenvolvido por PHWEB Next Level Week #NLW da Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
 
 
 
